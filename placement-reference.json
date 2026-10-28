@@ -1,0 +1,61 @@
+{
+  "id": "OLEAT-01",
+  "source": "evidence/oleat-perangkat.png",
+  "sourceType": "user supplied operational placement diagram",
+  "sourceDate": "2026-10-29",
+  "sourceSha256": "dd9cd915e994dec6726afdc51e725932f7d6a9f1f148d5b26b0bb95326e3e71a",
+  "status": "reference recorded; movement and participant counts unchanged pending operational identification",
+  "readings": [
+    {
+      "component": "Pasben",
+      "symbol": "pink star",
+      "visibleMarkers": 10,
+      "distribution": "5 sisi kiri foto, 5 sisi kanan foto",
+      "evidence": "visual reading of supplied diagram",
+      "quantityMeaning": "belum dikonfirmasi: titik plotting bukan otomatis jumlah orang tambahan"
+    },
+    {
+      "component": "Umbul-umbul",
+      "symbol": "gold vertical flag",
+      "visibleMarkers": 4,
+      "distribution": "dua di ujung atas tangga dan dua di ujung bawah bentangan merah",
+      "evidence": "visual reading of supplied diagram",
+      "quantityMeaning": "4 titik pada oleat; jumlah fisik dan urutan mobilisasi belum dikonfirmasi"
+    },
+    {
+      "component": "Baliho",
+      "symbol": "yellow panel",
+      "visibleMarkers": 1,
+      "distribution": "tengah ujung atas tangga dalam foto utama",
+      "evidence": "visual reading of supplied diagram",
+      "quantityMeaning": "oleat menampilkan satu titik; dua baliho tetap dikonfirmasi oleh rundown terbaru",
+      "identity": "belum dipastikan baliho 1 atau 2"
+    },
+    {
+      "component": "Armada Samping",
+      "symbol": "two red side strokes",
+      "visibleMarkers": 2,
+      "distribution": "dua sisi bentang tangga utama pada foto",
+      "evidence": "visual reading of supplied diagram",
+      "identity": "belum diketahui orang/barisan, properti atau zona/jalur"
+    },
+    {
+      "component": "Megaprop Lumutkan Ganesha",
+      "symbol": "orange rectangle",
+      "visibleMarkers": 1,
+      "distribution": "di atas gerbang Tunnel/Sunken Court pada foto inset",
+      "evidence": "visual reading; consistent with previous user instruction",
+      "identity": "Lumutkan Ganesha!"
+    }
+  ],
+  "limits": [
+    "Foto perspektif bukan denah berskala dan tidak memuat orientasi utara.",
+    "Belum dipakai untuk menebak koordinat, elevasi, rute masuk, dimensi atau waktu tempuh.",
+    "Simbol oleat bukan artwork asli baliho, umbul, bendera atau megaprop."
+  ],
+  "questions": [
+    "Identitas Pasben dan apakah termasuk 400 massa.",
+    "Arti dua garis Armada Samping.",
+    "Identitas baliho kuning pada ujung atas tangga."
+  ]
+}
